@@ -53,6 +53,11 @@ comments :
     short_name : 
   disqus :
       short_name : 
+      
+# Sidebar settings
+sidebar: true
+sidebar-about-description: "your description here"
+sidebar-avatar: /img/avatar-hux.jpg     # use absolute URL.
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: 
